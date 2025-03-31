@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #77b8f5;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav li {
+    margin-left: 40px;
+}
+
+.acessibilidade button {
+    margin-left: 10px;
+    font-size: 1.2em;
+    border-radius: 10px;
+    background-attachment: white;
+    color: black;
+}
+
+.conteudo {
+    padding: 20px;
+    text-align: justify;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #77b8f5;
+}
+
+.icones img {
+    width: 30px;
+    margin: 0 10px;
+}
+
+.contraste {
+    background-color: #17498a;
+    color: #fff;
+}
